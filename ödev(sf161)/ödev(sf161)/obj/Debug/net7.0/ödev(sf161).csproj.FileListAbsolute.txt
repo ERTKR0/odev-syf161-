@@ -1,0 +1,15 @@
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/bin/Debug/net7.0/ödev(sf161)
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/bin/Debug/net7.0/ödev(sf161).deps.json
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/bin/Debug/net7.0/ödev(sf161).runtimeconfig.json
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/bin/Debug/net7.0/ödev(sf161).dll
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/bin/Debug/net7.0/ödev(sf161).pdb
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).csproj.AssemblyReference.cache
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).AssemblyInfoInputs.cache
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).AssemblyInfo.cs
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).csproj.CoreCompileInputs.cache
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).dll
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/refint/ödev(sf161).dll
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).pdb
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ödev(sf161).genruntimeconfig.cache
+/Users/ertackara/Projects/ödev(sf161)/ödev(sf161)/obj/Debug/net7.0/ref/ödev(sf161).dll
